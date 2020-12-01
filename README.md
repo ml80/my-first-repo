@@ -1,30 +1,12 @@
-# This is a large heading
+# ml202
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The form of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local habitation and a **name**
+I live in the city of Portsmouth, in ths state of virginia, in the United 
+states of America.
 
-- This is 
-- an unordered
-- list
+I love to read books, mediatate and explore new places 
 
-1. This is 
-2. an ordered 
-3. list
 
-Here is some code in the middle of a sentence.
-
-```
-This is 
-a block
-of code
-```
-
-Here is how you make [a link] (https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringen/releases/download/v0.0.2
- /karl-moustache.jpg)
 
 
